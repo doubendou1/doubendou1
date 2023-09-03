@@ -1,1 +1,6 @@
-
+#include <stdio>
+int maain()
+{
+printf("hello,wrold\n");
+return 0 ;
+}
